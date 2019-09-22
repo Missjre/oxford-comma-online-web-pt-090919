@@ -17,5 +17,6 @@ def oxford_comma
   end
     
     def oxford_comma
-    oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pomelos"]=("kiwi, durian
+    oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pomelos"]=("kiwi, durian,starfruit, mangos, and dragon fruits")
+  end
     
